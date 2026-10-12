@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="pfp">
+<img src="pfp-v2.svg" width="100%" alt="pfp">
 
 <img src="text.svg" width="100%" alt="Hey, I'm YOUR_NAME">
 
@@ -72,8 +72,8 @@ IntelliJ IDEA, Git, GitHub Actions
 
 ## Find me
 
-- Email: your@email.com
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Email: shabib.hossain.md@email.com
+- GitHub: [@ShabibHossain](https://github.com/ShabibHossain)
 
 <div align="center">
 
