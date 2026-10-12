@@ -63,8 +63,8 @@ IntelliJ IDEA, Git, GitHub Actions
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=fcd12a&icon_color=fcd12a&text_color=8b949e" alt="stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=fcd12a&text_color=8b949e" alt="top languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShabibHossain&show_icons=true&hide_border=true&bg_color=00000000&title_color=fcd12a&icon_color=fcd12a&text_color=8b949e" alt="stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabibHossain&layout=compact&hide_border=true&bg_color=00000000&title_color=fcd12a&text_color=8b949e" alt="top languages">
 
 </div>
 
