@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="952" height="524" viewBox="0 0 952 524">
+<style>text{font-family:"JetBrains Mono","Fira Code","DejaVu Sans Mono",Consolas,monospace;font-size:15px;white-space:pre;}</style>
+<rect width="952" height="524" fill="#000000"/>
+<text x="24" y="32" fill="#a6e3a1">shabib@github:~$ </text>
+<clipPath id="typeclip"><rect x="177.0" y="14" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0" calcMode="discrete" begin="0.6s" dur="0.96s" fill="freeze"/></rect></clipPath>
+<text x="177.0" y="32" fill="#cdd6f4" clip-path="url(#typeclip)">neofetch</text>
+<rect x="177.0" y="18" width="9.0" height="18" fill="#cdd6f4"><animate attributeName="x" values="177.0;186.0;195.0;204.0;213.0;222.0;231.0;240.0;249.0" calcMode="discrete" begin="0.6s" dur="0.96s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="1s" begin="0s" repeatCount="3"/><set attributeName="visibility" to="hidden" begin="2.06s" fill="freeze"/></rect>
+<text x="24" y="70" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.06s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="87" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.11s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="104" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.16s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="121" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.21s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="138" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.26s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="155" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆÆ  ÆÆ     ÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.31s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="172" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆ   ÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.36s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="189" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆ  Æ  ÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.41s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="206" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆ   ÆÆÆÆ ÆÆÆ  Æ  ÆÆ  ÆÆÆ  ÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.46s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="223" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆ  ÆÆÆÆÆ ÆÆÆ  ÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.51s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="240" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆ      ÆÆÆÆÆÆ  ÆÆ  ÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.56s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="257" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆ  ÆÆÆÆ  ÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.61s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="274" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆ ÆÆÆÆ    ÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.66s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="291" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆ ÆÆÆÆ ÆÆÆ   ÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆ ÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.71s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="308" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆ  ÆÆÆ  Æ  ÆÆÆ        ÆÆÆ  ÆÆÆÆÆ ÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.76s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="325" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆ ÆÆÆÆ   ÆÆÆÆ ÆÆÆÆÆ ÆÆÆÆ ÆÆÆÆÆ  ÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.81s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="342" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆ  ÆÆÆÆ   ÆÆ ÆÆÆÆÆ Æ   ÆÆÆÆÆ  ÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.86s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="359" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆ        ÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.91s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="376" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="2.96s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="393" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ    ÆÆÆÆÆÆÆÆ    ÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="410" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="3.06s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="427" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="3.11s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="444" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="3.16s" dur="0.15s" fill="freeze"/></text>
+<text x="24" y="461" fill="#f38ba8" xml:space="preserve" opacity="0">ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ<animate attributeName="opacity" from="0" to="1" begin="3.21s" dur="0.15s" fill="freeze"/></text>
+<text x="460.0" y="70" fill="#f5c2e7" font-weight="bold" opacity="0">shabib@github<animate attributeName="opacity" from="0" to="1" begin="2.06s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="94" fill="#6c7086" opacity="0">-------------<animate attributeName="opacity" from="0" to="1" begin="2.26s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="118" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Name</tspan><tspan fill="#cdd6f4">: Shabib Hossain</tspan><animate attributeName="opacity" from="0" to="1" begin="2.46s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="142" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Email</tspan><tspan fill="#cdd6f4">: shabib.hossain.md@gmail.com</tspan><animate attributeName="opacity" from="0" to="1" begin="2.66s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="166" opacity="0"><tspan fill="#89b4fa" font-weight="bold">OS</tspan><tspan fill="#cdd6f4">: Arch</tspan><animate attributeName="opacity" from="0" to="1" begin="2.86s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="190" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Langs</tspan><tspan fill="#cdd6f4">: Python, Kotlin, Java</tspan><animate attributeName="opacity" from="0" to="1" begin="3.06s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="214" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Editor</tspan><tspan fill="#cdd6f4">: IntelliJ IDEA</tspan><animate attributeName="opacity" from="0" to="1" begin="3.26s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="238" opacity="0"><tspan fill="#89b4fa" font-weight="bold">GitHub</tspan><tspan fill="#cdd6f4">: github.com/ShabibHossain</tspan><animate attributeName="opacity" from="0" to="1" begin="3.46s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="262" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Facebook</tspan><tspan fill="#cdd6f4">: facebook.com/profile.php?id=61595045263072</tspan><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="286" opacity="0"><tspan fill="#89b4fa" font-weight="bold">YouTube</tspan><tspan fill="#cdd6f4">: youtube.com/@ShabibHossainOfficial</tspan><animate attributeName="opacity" from="0" to="1" begin="3.86s" dur="0.25s" fill="freeze"/></text>
+<text x="460.0" y="310" opacity="0"><tspan fill="#89b4fa" font-weight="bold">Instagram</tspan><tspan fill="#cdd6f4">: instagram.com/shabib.hossain.md/</tspan><animate attributeName="opacity" from="0" to="1" begin="4.06s" dur="0.25s" fill="freeze"/></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.26s" dur="0.25s" fill="freeze"/>
+<rect x="460.0" y="326" width="26" height="18" fill="#45475a"/>
+<rect x="486.0" y="326" width="26" height="18" fill="#f38ba8"/>
+<rect x="512.0" y="326" width="26" height="18" fill="#a6e3a1"/>
+<rect x="538.0" y="326" width="26" height="18" fill="#f9e2af"/>
+<rect x="564.0" y="326" width="26" height="18" fill="#89b4fa"/>
+<rect x="590.0" y="326" width="26" height="18" fill="#f5c2e7"/>
+<rect x="616.0" y="326" width="26" height="18" fill="#94e2d5"/>
+<rect x="642.0" y="326" width="26" height="18" fill="#cdd6f4"/>
+</g>
+<text x="24" y="500" fill="#a6e3a1" opacity="0">shabib@github:~$ <animate attributeName="opacity" from="0" to="1" begin="4.66s" dur="0.25s" fill="freeze"/></text>
+<rect x="177.0" y="486" width="9.0" height="18" fill="#cdd6f4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.66s" dur="0.25s" fill="freeze"/><animate attributeName="fill-opacity" values="1;0;1" dur="1s" begin="4.66s" repeatCount="indefinite"/></rect>
+</svg>
